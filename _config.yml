@@ -2,3 +2,4 @@ title: Paca test
 description: Universidad Nacional de Colombia, Bogotá
 sitename: Peque
 baseurl: '/testing'
+theme: jekyll-theme-dinky 
